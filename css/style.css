@@ -1,0 +1,13 @@
+.profile_img{
+  height: 200px;
+  border-radius: 100%;
+}
+
+.profile_top{
+  background-color: #0a81ab;
+}
+
+
+body{
+  background-color: #f9dfdc;
+}
